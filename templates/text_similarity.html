@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Similarity Detector</title>
+    <link href="{{ url_for('static',filename='styles/styles.css') }}" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>Quantification of overall similarity between two texts:</h1>
+    <form method="post" action="/predict">
+        <div>
+            <label for="text1" class="t1">Enter text 1:</label>
+            <textarea id="text1" name="text1" style="height: 200px; width: 1400px;"></textarea>
+        </div>
+        <br>
+        <div>
+            <label for="text2" class="t2">Enter text 2:</label>
+            <textarea id="text2" name="text2" style="height: 200px; width: 1400px;"></textarea>
+        </div>
+        <br><br><br>
+        <button type="submit" name="submit">Submit</button>
+    </form> 
+</body>
+</html>
