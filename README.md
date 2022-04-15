@@ -18,7 +18,7 @@ are semantically equivalent to each other.
 <ul>
   <li>Python</li>
     <ol>
-      <b><u>Libraries Used:</u></b>
+      <b><em>Libraries Used:</em></b>
       <li>Numpy</li>
       <li>Pandas</li>
       <li>Seaborn</li>
