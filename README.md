@@ -4,7 +4,7 @@ Live API Endpoint(IP Address of Hosted App) of the Algorithm Deployed on the Ser
 
 ## Objective
 
-Established an algorithm that can quantify the degree of similarity between the two text documents based on semantic similarity. 
+Establish an algorithm that can quantify the degree of similarity between the two text documents based on semantic similarity. 
 
 Semantic Textual Similarity (STS) assesses the degree to which two sentences
 are semantically equivalent to each other.
