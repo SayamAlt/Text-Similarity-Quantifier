@@ -16,8 +16,8 @@ are semantically equivalent to each other.
 ## Technologies Used
 
 <ul>
-  <li>Python</li>
-    <ol>Libraries Used:<br><br>
+  <li>Python</li><br>
+    <ol>Libraries Used:<br>
       <li>Numpy</li>
       <li>Pandas</li>
       <li>Seaborn</li>
